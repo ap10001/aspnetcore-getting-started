@@ -18,7 +18,7 @@ namespace helloworld.Controllers
         [HttpGet]
         public string Get()
         {
-            const string message = "Hello world!";
+            const string message = "你好，世界！";
             return message;
         }
     }
