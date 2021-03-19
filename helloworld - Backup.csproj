@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>helloworld</RootNamespace>
+    <UserSecretsId>9959c9a3-6175-46c7-89eb-22ee1d4e35b6</UserSecretsId>
+  </PropertyGroup>
+
+</Project>
